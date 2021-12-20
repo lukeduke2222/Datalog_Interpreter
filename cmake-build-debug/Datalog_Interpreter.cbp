@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Datalog_Interpreter"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Datalog_Interpreter">
+				<Option output="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Datalog_Interpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Datalog_Interpreter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Datalog_Interpreter/fast">
+				<Option output="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Datalog_Interpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Datalog_Interpreter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/AddAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/AddAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Automaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/BlockCommentAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/BlockCommentAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/ColonAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/ColonAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/ColonDashAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/ColonDashAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/CommaAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/CommaAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/CommentAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/CommentAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Database.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Database.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/DatalogProgram.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/DatalogProgram.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/EofAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/EofAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/FactsAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/FactsAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Graph.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Graph.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Header.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Header.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/IdAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/IdAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Interpreter.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Interpreter.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/LeftParenAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/LeftParenAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Lexer.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Lexer.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/MultiplyAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/MultiplyAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Node.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Node.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Parameter.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Parameter.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Parser.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Parser.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/PeriodAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/PeriodAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Predicates.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Predicates.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/QMarkAutomoton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/QMarkAutomoton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/QueriesAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/QueriesAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Relation.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Relation.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/RightParenAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/RightParenAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Rules.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Rules.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/RulesAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/RulesAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/SchemesAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/SchemesAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/StringAutomaton.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/StringAutomaton.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Token.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Token.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Tuple.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/Tuple.h">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/main.cpp">
+			<Option target="Datalog_Interpreter"/>
+		</Unit>
+		<Unit filename="/Users/lukejosephalbin/Desktop/Fall_2021/cs236/Project_5/Datalog_Interpreter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
