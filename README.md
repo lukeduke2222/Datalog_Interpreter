@@ -76,7 +76,7 @@ To insert a Scheme:
   Ex: snap(S,N,A,P)
   
 To insert a Fact:
-  *adds info to matching table and matching columns
+  *adds info to matching table and matching columns 
   *column order matters
   <identifier-to-add-to>('<info>','<info>').
   snap('12345','C. Brown','12 Apple St.','555-1234').
